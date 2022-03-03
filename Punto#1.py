@@ -11,7 +11,7 @@ Contabilidad = restante
 
 
 
-print("De la inversion total de "+"$",inversion, "el 10% que es "+"$",Telecomunicaciones," sera entregada a telecomunicaciones.")
-print("De la inversion total de "+"$",inversion, "el 10% que es "+"$",Sistemas," sera entregada a sistemas.")
-print("De la inversion total de "+"$",inversion, "el 10% que es "+"$",Administración," sera entregada a administracion.")
-print("De la inversion total de "+"$",inversion, "el 10% que es "+"$",Contabilidad," sera entregada a contabilidad.")
+print("Del valor dado a sitemas que es "+"$",Sistemas, "el 10% que es "+"$",Telecomunicaciones," sera entregada a telecomunicaciones.")
+print("Del valor dado a administracion que es "+"$",Administración, "el 25% que es "+"$",Sistemas," sera entregada a sistemas.")
+print("Del valor total de la inversion que es "+"$",inversion, "el 35% que es "+"$",Administración," sera entregada a administracion.")
+print("De la inversion total de "+"$",inversion, "el restante que es "+"$",Contabilidad," sera entregada a contabilidad.")
