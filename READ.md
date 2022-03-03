@@ -1,0 +1,1 @@
+md de inicio para configuracion del git
